@@ -1,2 +1,2 @@
 # ROS
-homework2
+ROSとArduinoを通信してサーボモータを0~180°の範囲で制御できます。
