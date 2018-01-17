@@ -8,7 +8,7 @@ ROSとArduinoを通信してサーボモータを0~180°の範囲で制御でき
 * Robot  
   Raspberry Pi Mouse    
 * Servo motor  
-  Futaba S3003  
-* Ubuntu 16.04
-* ROS
+  Futaba S3003    
+* Ubuntu 16.04  
+* ROS  
   kinetic Kame
