@@ -11,6 +11,7 @@ ROSとArduinoを通信してサーボモータを0~180°の範囲で制御でき
 * Ubuntu 16.04  
 * ROS  
   * kinetic Kame
-
+# rosserialのインストール
 ```
+sudo apt-get install ros-kinetic-rosserial ros-kinetic-rosserial-arduino
 ```
